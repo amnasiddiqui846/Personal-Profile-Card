@@ -17,9 +17,4 @@ A simple HTML + CSS profile card featuring an avatar, short bio, and social medi
 [Profile Card Preview](image.PNG)
 
 
-
-🔗 Live demo: *(add CodePen or GitHub Pages link here if hosted)*
-
----
-
 ✅ Perfect for portfolio intros or front-end practice!
