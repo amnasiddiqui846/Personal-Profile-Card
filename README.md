@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07babb29-42b2-4491-8979-7b0ec4da2804)# Personal-Profile-Card
+# Personal-Profile-Card
 A simple HTML + CSS profile card featuring an avatar, short bio, and social media links. Ideal for personal portfolios and beginner practice.
 # Profile Card
 
@@ -14,7 +14,7 @@ A simple HTML + CSS profile card featuring an avatar, short bio, and social medi
 
 📸 Preview:
 
-[Profile Card Preview](image.PNG)
+[Profile Card Preview](http://127.0.0.1:5500/project1/index.html)
 
 
 ✅ Perfect for portfolio intros or front-end practice!
